@@ -1,0 +1,41 @@
+{
+  "pins" : [
+    {
+      "identity" : "alamofire",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Alamofire/Alamofire.git",
+      "state" : {
+        "revision" : "8dd85aee02e39dd280c75eef88ffdb86eed4b07b",
+        "version" : "5.6.2"
+      }
+    },
+    {
+      "identity" : "gradientprogressbar",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fxm90/GradientProgressBar",
+      "state" : {
+        "revision" : "5c97947257bf88b18446cf430650443354f8f17a",
+        "version" : "2.1.1"
+      }
+    },
+    {
+      "identity" : "handyjson",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/alibaba/HandyJSON.git",
+      "state" : {
+        "revision" : "dcf39cf062680ffa4fd0acb7f9117a97755c113f",
+        "version" : "5.0.2"
+      }
+    },
+    {
+      "identity" : "lightweightobservable",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/fxm90/LightweightObservable",
+      "state" : {
+        "revision" : "f7aeda3ab67922bd3ad252c5a311c58ee3e37bf5",
+        "version" : "2.2.2"
+      }
+    }
+  ],
+  "version" : 2
+}
